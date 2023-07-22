@@ -1,3 +1,3 @@
 # Git course
 
-git course
+git course!
